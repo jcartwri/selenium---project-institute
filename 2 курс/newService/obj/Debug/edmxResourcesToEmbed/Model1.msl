@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Database1ModelStoreContainer" CdmEntityContainer="Database1Entities">
+    <EntitySetMapping Name="Feeds">
+      <EntityTypeMapping TypeName="Database1Model.Feed">
+        <MappingFragment StoreEntitySet="Feed">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Id_Feed" ColumnName="Id_Feed" />
+          <ScalarProperty Name="feed1" ColumnName="feed" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Pictures">
+      <EntityTypeMapping TypeName="Database1Model.Picture">
+        <MappingFragment StoreEntitySet="Picture">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Id_Pic" ColumnName="Id_Pic" />
+          <ScalarProperty Name="Pic" ColumnName="Pic" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Texts">
+      <EntityTypeMapping TypeName="Database1Model.Text">
+        <MappingFragment StoreEntitySet="Text">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Id_Text" ColumnName="Id_Text" />
+          <ScalarProperty Name="Text1" ColumnName="Text" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

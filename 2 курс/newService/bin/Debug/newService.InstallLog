@@ -1,0 +1,26 @@
+﻿Installing assembly 'E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\newService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\newService.InstallLog
+   assemblypath = E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\newService.exe
+Installing service NewServicBD...
+Service NewServicBD has been successfully installed.
+Creating EventLog source NewServicBD in log Application...
+Committing assembly 'E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\newService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\newService.InstallLog
+   assemblypath = E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\newService.exe
+Installing assembly 'E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\newService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\newService.InstallLog
+   assemblypath = E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\newService.exe
+Installing service NewServicBD...
+Creating EventLog source NewServicBD in log Application...
+Rolling back assembly 'E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\newService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\newService.InstallLog
+   assemblypath = E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\newService.exe
+Restoring event log to previous state for source NewServicBD.

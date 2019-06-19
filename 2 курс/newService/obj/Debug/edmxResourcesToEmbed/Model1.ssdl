@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Feed">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Id_Feed" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="feed" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Picture">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Id_Pic" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Pic" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Text">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Id_Text" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Text" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Database1ModelStoreContainer">
+    <EntitySet Name="Feed" EntityType="Self.Feed" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Picture" EntityType="Self.Picture" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Text" EntityType="Self.Text" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

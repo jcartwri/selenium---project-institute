@@ -1,0 +1,28 @@
+E:\institute\operating-system\Chrome\new service\newService\newService\bin\Debug\Database1.mdf
+E:\institute\operating-system\Chrome\new service\newService\newService\bin\Debug\Database1_log.ldf
+E:\institute\operating-system\Chrome\new service\newService\newService\bin\Debug\newService.exe.config
+E:\institute\operating-system\Chrome\new service\newService\newService\bin\Debug\newService.exe
+E:\institute\operating-system\Chrome\new service\newService\newService\bin\Debug\newService.pdb
+E:\institute\operating-system\Chrome\new service\newService\newService\bin\Debug\EntityFramework.dll
+E:\institute\operating-system\Chrome\new service\newService\newService\bin\Debug\EntityFramework.SqlServer.dll
+E:\institute\operating-system\Chrome\new service\newService\newService\bin\Debug\EntityFramework.xml
+E:\institute\operating-system\Chrome\new service\newService\newService\bin\Debug\EntityFramework.SqlServer.xml
+E:\institute\operating-system\Chrome\new service\newService\newService\obj\Debug\newService.csprojAssemblyReference.cache
+E:\institute\operating-system\Chrome\new service\newService\newService\obj\Debug\newService.csproj.CoreCompileInputs.cache
+E:\institute\operating-system\Chrome\new service\newService\newService\obj\Debug\newService.csproj.CopyComplete
+E:\institute\operating-system\Chrome\new service\newService\newService\obj\Debug\newService.exe
+E:\institute\operating-system\Chrome\new service\newService\newService\obj\Debug\newService.pdb
+E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\Database1.mdf
+E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\Database1_log.ldf
+E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\newService.exe.config
+E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\newService.exe
+E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\newService.pdb
+E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\EntityFramework.dll
+E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\EntityFramework.SqlServer.dll
+E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\EntityFramework.xml
+E:\institute\operating-system\Chrome\new-service\newService\newService\bin\Debug\EntityFramework.SqlServer.xml
+E:\institute\operating-system\Chrome\new-service\newService\newService\obj\Debug\newService.csproj.CoreCompileInputs.cache
+E:\institute\operating-system\Chrome\new-service\newService\newService\obj\Debug\newService.csproj.CopyComplete
+E:\institute\operating-system\Chrome\new-service\newService\newService\obj\Debug\newService.exe
+E:\institute\operating-system\Chrome\new-service\newService\newService\obj\Debug\newService.pdb
+E:\institute\operating-system\Chrome\new-service\newService\newService\obj\Debug\newService.csprojAssemblyReference.cache
